@@ -1,4 +1,4 @@
-
+![logo](https://webstockreview.net/images/clipart-computer-computer-training-3.png)
 <h1 align="center">Hi 👋, I'm Dimple</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
