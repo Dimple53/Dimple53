@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://codolio.com/profile/dimple53/devStats/github">
-    <img src="https://img.shields.io/badge/CodeLoom-Explore%20My%20Work-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Codolio-Explore%20My%20Work-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
