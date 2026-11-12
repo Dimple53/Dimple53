@@ -98,7 +98,7 @@ Software Engineer focused on building intelligent and scalable applications.
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://codolio.com/profile/dimple53/devStats/github">
-    <img src="https://img.shields.io/badge/CodeLoom-Portfolio-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Codolio-Portfolio-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
