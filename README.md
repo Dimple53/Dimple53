@@ -122,6 +122,6 @@ Software Engineer focused on building intelligent and scalable applications.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:F4B400&height=100&section=footer"/>
 </p>
------
+
 
 
