@@ -1,13 +1,9 @@
 
+<img width="1672" height="248" alt="dimple-profile-banner" src="https://github.com/user-attachments/assets/5f2ad52e-3f18-4218-a680-51eb79f75df9" />
+
+
 <!-- =============== HEADER BANNER =============== -->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:F4B400&height=220&section=header&text=Dimple%20Gautam&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20GenAI%20%7C%20Full%20Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
-</p>
-
-<p align="center">
-  Building intelligent applications and scalable software solutions.
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dimple53/">
