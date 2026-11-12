@@ -30,7 +30,9 @@ Software Engineer focused on building intelligent and scalable applications.
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
+<!-- =============== TECHNICAL SKILLS =============== -->
+
+<h2>🛠️ TECHNICAL SKILLS</h2>
 
 ### 🟨 AI & GENERATIVE AI
 
@@ -56,15 +58,22 @@ Software Engineer focused on building intelligent and scalable applications.
 ### 🟨 BACKEND DEVELOPMENT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,django,flask&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express&theme=dark"/>
 </p>
 
 ### 🟨 DATABASES
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
   <img src="https://img.shields.io/badge/SQL-FFD43B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NoSQL-FFD43B?style=for-the-badge"/>
+</p>
+
+### 🟨 FULL STACK TECHNOLOGIES
+
+<p>
+  <img src="https://img.shields.io/badge/MERN_Stack-FFD43B?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Development-FFD43B?style=for-the-badge"/>
 </p>
 
 ### 🟨 TOOLS & TECHNOLOGIES
@@ -75,12 +84,14 @@ Software Engineer focused on building intelligent and scalable applications.
 
 ---
 
-## 📊 GITHUB ACTIVITY
+<!-- =============== GITHUB ACTIVITY =============== -->
+
+<h2 align="center">🔥 GITHUB STREAK</h2>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Dimple53&theme=dark&hide_border=true&background=0D1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B"
-    alt="GitHub Contribution Streak"
+    alt="GitHub Streak"
     width="90%"
   />
 </p>
@@ -111,3 +122,6 @@ Software Engineer focused on building intelligent and scalable applications.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:F4B400&height=100&section=footer"/>
 </p>
+-----
+
+
