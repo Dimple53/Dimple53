@@ -1,21 +1,117 @@
-![logo](https://webstockreview.net/images/clipart-computer-computer-training-3.png)
-<h1 align="center">Hi 👋, I am Dimple</h1>
-<h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<!-- =============== HEADER BANNER =============== -->
 
-- 📫 How to reach me **dimplegautam09@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dimple gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimple gautam" height="30" width="40" /></a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:F4B400&height=220&section=header&text=Dimple%20Gautam&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20GenAI%20%7C%20Full%20Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building intelligent applications and scalable software solutions.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimple53&show_icons=true&locale=en&layout=compact" alt="dimple53" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dimple53/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dimplegautam09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/dimple53/devStats/github">
+    <img src="https://img.shields.io/badge/CodeLoom-Explore%20My%20Work-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimple53&show_icons=true&locale=en" alt="dimple53" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimple53&" alt="dimple53" /></p>
+## 👩‍💻 ABOUT ME
+
+Software Engineer focused on building intelligent and scalable applications.
+
+- Passionate about **Generative AI, LLMs and AI Agents**.
+- Strong programming foundation in **Python and Java**.
+- Experience in **Full Stack Application Development**.
+- Interested in AI-powered solutions and modern software engineering.
+
+---
+
+## 🛠️ TECHNICAL SKILLS
+
+### 🟨 AI & GENERATIVE AI
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-FFD43B?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLM_Applications-FFD43B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-FFD43B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD43B?style=for-the-badge"/>
+</p>
+
+### 🟨 PROGRAMMING LANGUAGES
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
+</p>
+
+### 🟨 FRONTEND DEVELOPMENT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
+</p>
+
+### 🟨 BACKEND DEVELOPMENT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,django,flask&theme=dark"/>
+</p>
+
+### 🟨 DATABASES
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+  <img src="https://img.shields.io/badge/SQL-FFD43B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NoSQL-FFD43B?style=for-the-badge"/>
+</p>
+
+### 🟨 TOOLS & TECHNOLOGIES
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode&theme=dark"/>
+</p>
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dimple53&theme=dark&hide_border=true&background=0D1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B"
+    alt="GitHub Contribution Streak"
+    width="90%"
+  />
+</p>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dimple53/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/dimple53/devStats/github">
+    <img src="https://img.shields.io/badge/CodeLoom-Portfolio-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:dimplegautam09@gmail.com">
+    dimplegautam09@gmail.com
+  </a>
+</p>
+
+<p align="center">
+  <b>Building • Innovating • Evolving</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:F4B400&height=100&section=footer"/>
+</p>
